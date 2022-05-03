@@ -1,17 +1,17 @@
 
 </h1>
 <p align="center">
-  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3g4WH3b0lrwJ9HPPgv4sKm?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 </p>
 <h3 align="left">Contact:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/TTK221" target="blank"><img align="center"
+  <a href="https://www.facebook.com/HarryxDKH" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="load" height="30" width="40" /></a> 
-  <a href="https://instagram.com/rizxyux" target="blank"><img align="center"
+  <a href="https://instagram.com/harry131199" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="load" height="30" width="40" /></a> 
- <a href="https://twitter.com/rizkyadin7" target="blank"><img align="center"
+ <a href="https://twitter.com/hoaipro2" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Arsyad Al Zikri" height="30" width="40" /></a> 
 </p>
