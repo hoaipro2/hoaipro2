@@ -1,7 +1,7 @@
 
 </h1>
 <p align="center">
-  <<iframe style="border-radius:12px" src="https://open.spotify.com/album/3g4WH3b0lrwJ9HPPgv4sKm" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+  <a href="https://open.spotify.com/album/3g4WH3b0lrwJ9HPPgv4sKm" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 <h3 align="left">Contact:</h3>
 <p align="left">
